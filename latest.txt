@@ -1,0 +1,7 @@
+product=TTT2Online
+base=1
+version=0.9.0
+file=
+size=0
+sha256=
+notes=TTT2 Online v0.9.0. No update newer than the release yet.
