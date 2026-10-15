@@ -1,0 +1,6 @@
+product=TTT2Online
+base=1
+version=0.9.5
+file=TTT2-Online-update-0.9.5.dif
+size=25429401
+sha256=e6e5fa19ce5ba121430ff263e2ae3a401b20e51048d2f7f2e4518cf406152d18
