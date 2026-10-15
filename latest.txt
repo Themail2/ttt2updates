@@ -1,0 +1,7 @@
+product=TTT2Online
+base=1
+version=2
+file=TTT2-Online-update-2.dif
+size=1041
+sha256=a93b9c8b738f8181c8a274903ef46ca846f06a44b05f9a802aeebffcfd89b41a
+notes=Test update: README text only, no program change.
