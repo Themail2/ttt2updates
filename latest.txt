@@ -1,0 +1,6 @@
+product=TTT2Online
+base=2
+version=0.10.0
+file=
+size=0
+sha256=
