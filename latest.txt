@@ -1,6 +1,6 @@
 product=TTT2Online
 base=2
-version=0.10.7
-file=TTT2-Online-update-0.10.7.dif
-size=26221028
-sha256=420f77fb658b90469fa0ebbec38c723655122cef04a45c9eb59833df29e5f10c
+version=0.10.8
+file=TTT2-Online-update-0.10.8.dif
+size=26222185
+sha256=c3808d858d9184772156b4d52854a207b0b40ce8c8beb5e7026343b2983578e4
